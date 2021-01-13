@@ -1,0 +1,58 @@
+DSA (Data structure & Algorithm)
+
+
+Algorithm
+	-An algorithm is a step by step procedure to solve a problem.
+
+	-Finitness
+	-Definiteness
+	-Input
+	-Output
+	-Effectiveness
+
+
+Data structure types:
+	
+	-static
+		-which cannot grow or shrink at runtime.
+
+	-dynamic
+		-which can grow or shrink at runtime.
+
+
+Techniques of data structures:
+
+	-Divide and conquer
+	-Greedy approach
+	-recursion
+
+
+BIG O Notation:
+		
+	-Constant
+	-Logarithm
+	-Linear
+	-Loglinear
+	-Quadratic
+	-Cubic
+	-Exponential
+
+Selecting Algorithm Technique:
+
+1) Time
+2) Space
+3) Programming Efforts
+
+
+Sorting Algorithms:
+
+1) Bubble sort			- Quadratic
+2) Insertion sort		- Best Case - Linear		    ,	Worst Case - Quadratic 
+3) Quick			- Best Case - Loglinear 	    ,   Worst Case - Quadratic
+
+
+Searching Techniques:
+
+1) Linear Search		- Best case - Constant		    ,  Worst case - Linear
+2) Binary Search		- Best case - Constant		    ,  Worst case - Logarithmic
+3) Hashing Technique		- Best case - Constant		    ,  Worst case - Linear

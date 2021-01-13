@@ -1,0 +1,60 @@
+Searching
+
+	1) Linear Search
+		Linear search is the simplest searching algorithm.
+		But use it only for small list.
+
+		Best 	Case	- Constant O(1)
+		Worst 	Case 	- Linear   O(n)
+
+	2) Binary Search
+
+		Best 	Case	- Constant    O(1)
+		Worst 	Case	- Logarithmic O(log n)
+
+	3) Hashing
+
+		Best 	Case	- Constant    O(1)
+		Worst 	Case	- Linear      O(n)
+
+
+Bubble sort  is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted. 
+Quadratic best and worst case
+
+
+An algorithm is a step by step procedure to solve a problem.
+Finiteness,Definiteness,Input,Output,Effectiveness.
+
+Selecting Algorithm Technique:
+
+1) Time
+2) Space
+3) Programming Efforts
+
+
+1)static-which cannot grow or shrink at runtime.
+
+2)dynamic-which can grow or shrink at runtime.
+
+
+An algorithm is a step by step procedure to solve a problem.
+properities : Finiteness, Definiteness, Input, Output, Effectiveness.
+
+
+In computer science, a search algorithm is any algorithm which solves the search problem, namely, to retrieve information stored within some data structure, or calculated in the search space of a problem domain, either with discrete or continuous values.
+Linear search, hashing, binary search
+
+
+Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. In computer science, big O notation is used to classify algorithms according to how their run time or space requirements grow as the input size grows.
+
+1.Constant 2.Logarithm 3.Linear 4.Loglinear 5.Quadratic 6.Cubic 7.Exponential
+
+
+
+Stack is a container of objects that are inserted and removed according to the last-in first-out (LIFO) principle. 
+Queue is a container of objects (a linear collection) that are inserted and removed according to the first-in first-out (FIFO) principle.
+
+
+
+
+

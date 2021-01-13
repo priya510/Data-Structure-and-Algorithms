@@ -1,0 +1,15 @@
+Arrays:
+
+	1) Static
+		which cannot grow or shrink at run time.
+
+	2) Dynamic
+		which can grow or shrink at run time.
+
+
+		Linked List
+
+			1) Singly
+			2) Doubly
+			3) Circular
+

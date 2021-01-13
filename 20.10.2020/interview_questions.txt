@@ -1,0 +1,43 @@
+
+Topics:	Try 20 questions for each topic:
+
+1) if..else
+2) switch..case
+3) Loops
+4) Arrays
+5) Classes
+6) Functions
+
+
+1)  WAP to accept a number from user and check whether it is even or odd.
+2)  WAP to accept a number from user and check whether it is positive, negative or zero.
+3)  WAP to accept a number from user and check whether it is prime or not.
+4)  WAP to accept a number from user and check whether it is perfect or not.
+5)  WAP to accept a number from user and check whether it is palindrome or not.
+6)  WAP to accept a string from user and check whether it is palindrome or not.
+7)  WAP to accept a number from user and display factorial using loop and recursion.
+8)  WAP to accept a number from user and print table.
+9)  WAP to accept a number from user and check whether is armstrong or not.
+10) WAP to accept a number from user and check whether it is strong or not.
+12) WAP to accept a number from user and display reverse.
+13) WAP to display all prime numbers between 1 to 100.
+14) WAP to display sum of first 10 natural numbers.
+15) WAP to print following pattern.
+
+
+	*
+	**
+	***
+	****
+
+	1
+	12
+	123
+	1234
+
+	4
+	43
+	432
+	4321
+
+
